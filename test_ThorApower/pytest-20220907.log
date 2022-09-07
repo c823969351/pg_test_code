@@ -1,0 +1,1365 @@
+2022-09-07 13:30:16,915 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 13:30:16,915 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 13:30:16,917 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 13:30:16,917 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 13:30:17,132 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 13:30:17,132 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 13:30:17,634 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 13:30:17,634 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 13:30:18,657 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:30:18,657 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:30:18,660 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:1.49949193859293
+
+2022-09-07 13:30:18,660 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:1.49949193859293
+
+2022-09-07 13:30:18,663 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,2
+
+2022-09-07 13:30:18,663 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,2
+
+2022-09-07 13:30:19,676 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:30:19,676 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:30:19,678 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.00325623401391
+
+2022-09-07 13:30:19,678 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.00325623401391
+
+2022-09-07 13:30:19,688 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,3
+
+2022-09-07 13:30:19,688 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,3
+
+2022-09-07 13:30:20,690 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:30:20,690 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:30:20,698 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.0039517128889
+
+2022-09-07 13:30:20,698 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.0039517128889
+
+2022-09-07 13:30:20,704 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,4
+
+2022-09-07 13:30:20,704 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,4
+
+2022-09-07 13:30:21,710 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:30:21,710 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:30:21,713 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.00404841391111
+
+2022-09-07 13:30:21,713 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.00404841391111
+
+2022-09-07 13:30:21,723 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,5
+
+2022-09-07 13:30:21,723 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,5
+
+2022-09-07 13:30:22,725 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:30:22,725 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:30:22,727 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.00462541802379
+
+2022-09-07 13:30:22,727 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.00462541802379
+
+2022-09-07 13:30:22,737 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,OFF
+
+2022-09-07 13:30:22,737 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,OFF
+
+2022-09-07 13:30:23,054 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 13:30:23,054 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 13:30:57,496 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 13:30:57,496 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 13:30:57,498 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 13:30:57,498 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 13:30:57,709 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 13:30:57,709 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 13:30:58,224 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 13:30:58,224 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 13:30:59,237 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:30:59,237 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:30:59,240 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.00492320593988
+
+2022-09-07 13:30:59,240 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.00492320593988
+
+2022-09-07 13:30:59,244 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1.2
+
+2022-09-07 13:30:59,244 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1.2
+
+2022-09-07 13:31:00,247 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:00,247 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:00,249 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.00468625641525
+
+2022-09-07 13:31:00,249 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.00468625641525
+
+2022-09-07 13:31:00,256 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1.4
+
+2022-09-07 13:31:00,256 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1.4
+
+2022-09-07 13:31:01,258 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:01,258 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:01,260 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.00449413517906
+
+2022-09-07 13:31:01,260 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.00449413517906
+
+2022-09-07 13:31:01,268 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1.6
+
+2022-09-07 13:31:01,268 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1.6
+
+2022-09-07 13:31:02,272 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:02,272 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:02,276 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:1.59992011278797
+
+2022-09-07 13:31:02,276 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:1.59992011278797
+
+2022-09-07 13:31:02,286 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1.8
+
+2022-09-07 13:31:02,286 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1.8
+
+2022-09-07 13:31:03,288 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:03,288 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:03,292 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:1.80240949168563
+
+2022-09-07 13:31:03,292 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:1.80240949168563
+
+2022-09-07 13:31:03,303 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,2
+
+2022-09-07 13:31:03,303 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,2
+
+2022-09-07 13:31:04,306 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:04,306 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:04,309 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.00289760770637
+
+2022-09-07 13:31:04,309 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.00289760770637
+
+2022-09-07 13:31:04,321 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,2.2
+
+2022-09-07 13:31:04,321 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,2.2
+
+2022-09-07 13:31:05,324 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:05,324 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:05,327 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.20281256203915
+
+2022-09-07 13:31:05,327 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.20281256203915
+
+2022-09-07 13:31:05,336 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,2.4
+
+2022-09-07 13:31:05,336 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,2.4
+
+2022-09-07 13:31:06,339 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:06,339 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:06,342 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.402589829486
+
+2022-09-07 13:31:06,342 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.402589829486
+
+2022-09-07 13:31:06,348 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,2.6
+
+2022-09-07 13:31:06,348 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,2.6
+
+2022-09-07 13:31:07,351 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:07,351 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:07,355 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.60301070307407
+
+2022-09-07 13:31:07,355 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.60301070307407
+
+2022-09-07 13:31:07,363 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,2.8
+
+2022-09-07 13:31:07,363 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,2.8
+
+2022-09-07 13:31:08,366 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:08,366 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:08,372 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.80344438474455
+
+2022-09-07 13:31:08,372 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.80344438474455
+
+2022-09-07 13:31:08,380 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,3
+
+2022-09-07 13:31:08,380 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,3
+
+2022-09-07 13:31:09,384 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:09,384 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:09,387 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.00313839965572
+
+2022-09-07 13:31:09,387 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.00313839965572
+
+2022-09-07 13:31:09,397 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,3.2
+
+2022-09-07 13:31:09,397 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,3.2
+
+2022-09-07 13:31:10,399 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:10,399 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:10,402 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.20330311159554
+
+2022-09-07 13:31:10,402 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.20330311159554
+
+2022-09-07 13:31:10,410 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,3.4
+
+2022-09-07 13:31:10,410 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,3.4
+
+2022-09-07 13:31:11,414 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:11,414 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:11,415 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.40317323763988
+
+2022-09-07 13:31:11,415 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.40317323763988
+
+2022-09-07 13:31:11,423 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,3.6
+
+2022-09-07 13:31:11,423 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,3.6
+
+2022-09-07 13:31:12,425 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:12,425 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:12,427 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.60314582834352
+
+2022-09-07 13:31:12,427 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.60314582834352
+
+2022-09-07 13:31:12,435 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,3.8
+
+2022-09-07 13:31:12,435 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,3.8
+
+2022-09-07 13:31:13,438 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:13,438 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:13,443 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.80359231809641
+
+2022-09-07 13:31:13,443 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.80359231809641
+
+2022-09-07 13:31:13,453 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,4
+
+2022-09-07 13:31:13,453 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,4
+
+2022-09-07 13:31:14,457 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:14,457 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:14,460 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.00366417143874
+
+2022-09-07 13:31:14,460 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.00366417143874
+
+2022-09-07 13:31:14,470 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,4.2
+
+2022-09-07 13:31:14,470 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,4.2
+
+2022-09-07 13:31:15,473 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:15,473 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:15,475 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.20373282276047
+
+2022-09-07 13:31:15,475 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.20373282276047
+
+2022-09-07 13:31:15,482 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,4.4
+
+2022-09-07 13:31:15,482 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,4.4
+
+2022-09-07 13:31:16,486 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:16,486 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:16,487 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.4037918680204
+
+2022-09-07 13:31:16,487 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.4037918680204
+
+2022-09-07 13:31:16,494 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,4.6
+
+2022-09-07 13:31:16,494 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,4.6
+
+2022-09-07 13:31:17,496 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:17,496 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:17,498 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.60379647893006
+
+2022-09-07 13:31:17,498 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.60379647893006
+
+2022-09-07 13:31:17,505 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,4.8
+
+2022-09-07 13:31:17,505 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,4.8
+
+2022-09-07 13:31:18,510 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:18,510 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:18,514 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.80422375655934
+
+2022-09-07 13:31:18,514 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.80422375655934
+
+2022-09-07 13:31:18,520 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,5
+
+2022-09-07 13:31:18,520 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,5
+
+2022-09-07 13:31:19,522 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:19,522 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:19,523 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.00413550887152
+
+2022-09-07 13:31:19,523 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.00413550887152
+
+2022-09-07 13:31:19,529 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,5.2
+
+2022-09-07 13:31:19,529 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,5.2
+
+2022-09-07 13:31:20,545 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:20,545 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:20,547 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.20416573594601
+
+2022-09-07 13:31:20,547 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.20416573594601
+
+2022-09-07 13:31:20,552 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,5.4
+
+2022-09-07 13:31:20,552 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,5.4
+
+2022-09-07 13:31:21,555 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:21,555 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:21,556 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.404506559019
+
+2022-09-07 13:31:21,556 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.404506559019
+
+2022-09-07 13:31:21,562 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,5.6
+
+2022-09-07 13:31:21,562 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,5.6
+
+2022-09-07 13:31:22,566 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:22,566 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:22,568 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.60438308910455
+
+2022-09-07 13:31:22,568 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.60438308910455
+
+2022-09-07 13:31:22,588 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,5.8
+
+2022-09-07 13:31:22,588 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,5.8
+
+2022-09-07 13:31:23,593 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:23,593 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:23,597 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.8043684878906
+
+2022-09-07 13:31:23,597 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.8043684878906
+
+2022-09-07 13:31:23,604 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,6
+
+2022-09-07 13:31:23,604 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,6
+
+2022-09-07 13:31:24,605 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:24,605 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:24,609 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:6.00439871496509
+
+2022-09-07 13:31:24,609 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:6.00439871496509
+
+2022-09-07 13:31:24,618 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,6.2
+
+2022-09-07 13:31:24,618 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,6.2
+
+2022-09-07 13:31:25,620 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:25,620 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:25,624 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:6.20473633601748
+
+2022-09-07 13:31:25,624 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:6.20473633601748
+
+2022-09-07 13:31:25,632 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,6.4
+
+2022-09-07 13:31:25,632 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,6.4
+
+2022-09-07 13:31:26,636 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:26,636 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:26,639 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:6.40460326004122
+
+2022-09-07 13:31:26,639 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:6.40460326004122
+
+2022-09-07 13:31:26,649 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,6.6
+
+2022-09-07 13:31:26,649 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,6.6
+
+2022-09-07 13:31:27,653 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:27,653 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:27,656 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:6.60496969927903
+
+2022-09-07 13:31:27,656 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:6.60496969927903
+
+2022-09-07 13:31:27,665 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,6.8
+
+2022-09-07 13:31:27,665 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,6.8
+
+2022-09-07 13:31:28,667 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:28,667 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:28,671 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:6.8049775122093
+
+2022-09-07 13:31:28,671 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:6.8049775122093
+
+2022-09-07 13:31:28,678 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,7
+
+2022-09-07 13:31:28,678 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,7
+
+2022-09-07 13:31:29,683 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:29,683 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:29,686 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:7.00491808270691
+
+2022-09-07 13:31:29,686 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:7.00491808270691
+
+2022-09-07 13:31:29,699 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,7.2
+
+2022-09-07 13:31:29,699 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,7.2
+
+2022-09-07 13:31:30,703 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:30,703 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:30,707 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:7.20524289567689
+
+2022-09-07 13:31:30,707 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:7.20524289567689
+
+2022-09-07 13:31:30,717 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,7.4
+
+2022-09-07 13:31:30,717 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,7.4
+
+2022-09-07 13:31:31,721 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:31,721 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:31,723 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:7.40549086015239
+
+2022-09-07 13:31:31,723 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:7.40549086015239
+
+2022-09-07 13:31:31,735 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,7.6
+
+2022-09-07 13:31:31,735 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,7.6
+
+2022-09-07 13:31:32,737 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:32,737 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:32,739 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:7.60534497609371
+
+2022-09-07 13:31:32,739 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:7.60534497609371
+
+2022-09-07 13:31:32,747 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,7.8
+
+2022-09-07 13:31:32,747 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,7.8
+
+2022-09-07 13:31:33,749 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:33,749 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:33,754 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:7.80560254663103
+
+2022-09-07 13:31:33,754 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:7.80560254663103
+
+2022-09-07 13:31:33,763 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,8
+
+2022-09-07 13:31:33,763 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,8
+
+2022-09-07 13:31:34,767 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:34,767 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:34,770 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:8.00532217770702
+
+2022-09-07 13:31:34,770 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:8.00532217770702
+
+2022-09-07 13:31:34,778 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,8.2
+
+2022-09-07 13:31:34,778 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,8.2
+
+2022-09-07 13:31:35,780 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:35,780 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:35,784 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:8.20603123314937
+
+2022-09-07 13:31:35,784 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:8.20603123314937
+
+2022-09-07 13:31:35,791 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,8.4
+
+2022-09-07 13:31:35,791 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,8.4
+
+2022-09-07 13:31:36,795 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:36,795 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:36,798 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:8.40591416727612
+
+2022-09-07 13:31:36,798 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:8.40591416727612
+
+2022-09-07 13:31:36,806 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,8.6
+
+2022-09-07 13:31:36,806 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,8.6
+
+2022-09-07 13:31:37,808 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:37,808 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:37,811 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:8.60578109129985
+
+2022-09-07 13:31:37,811 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:8.60578109129985
+
+2022-09-07 13:31:37,820 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,8.8
+
+2022-09-07 13:31:37,820 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,8.8
+
+2022-09-07 13:31:38,822 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:38,822 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:38,828 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:8.80577609614771
+
+2022-09-07 13:31:38,828 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:8.80577609614771
+
+2022-09-07 13:31:38,838 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,9
+
+2022-09-07 13:31:38,838 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,9
+
+2022-09-07 13:31:39,842 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:39,842 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:39,845 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:9.00632505055991
+
+2022-09-07 13:31:39,845 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:9.00632505055991
+
+2022-09-07 13:31:39,853 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,9.2
+
+2022-09-07 13:31:39,853 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,9.2
+
+2022-09-07 13:31:40,856 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:40,856 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:40,859 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:9.20639690390224
+
+2022-09-07 13:31:40,859 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:9.20639690390224
+
+2022-09-07 13:31:40,870 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,9.4
+
+2022-09-07 13:31:40,870 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,9.4
+
+2022-09-07 13:31:41,872 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:41,872 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:41,875 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:9.4062862420702
+
+2022-09-07 13:31:41,875 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:9.4062862420702
+
+2022-09-07 13:31:41,884 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,9.6
+
+2022-09-07 13:31:41,884 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,9.6
+
+2022-09-07 13:31:42,886 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:42,886 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:42,890 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:9.60600267112559
+
+2022-09-07 13:31:42,890 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:9.60600267112559
+
+2022-09-07 13:31:42,900 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,9.8
+
+2022-09-07 13:31:42,900 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,9.8
+
+2022-09-07 13:31:43,903 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:43,903 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:43,908 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:9.80652280735235
+
+2022-09-07 13:31:43,908 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:9.80652280735235
+
+2022-09-07 13:31:43,917 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,10
+
+2022-09-07 13:31:43,917 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,10
+
+2022-09-07 13:31:44,920 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:44,920 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 13:31:44,922 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:10.0066394889831
+
+2022-09-07 13:31:44,922 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:10.0066394889831
+
+2022-09-07 13:31:44,928 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,OFF
+
+2022-09-07 13:31:44,928 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,OFF
+
+2022-09-07 13:31:45,132 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 13:31:45,132 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 14:46:27,433 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 14:46:27,433 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 14:46:27,434 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 14:46:27,434 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 14:46:27,648 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 14:46:27,648 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 14:46:28,162 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 14:46:28,162 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 14:46:29,173 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 14:46:29,173 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 14:46:29,175 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:1.49958799921102
+
+2022-09-07 14:46:29,175 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:1.49958799921102
+
+2022-09-07 14:46:29,177 - d:\testCode\test_ThorApower\app.py[line:151] - ERROR: run:[Errno 2] No such file or directory: 'D:\\testCode\\test_ThorApower\\电源测试数据\\电源测试20220907-14-46-25.csv'
+2022-09-07 14:46:29,177 - d:\testCode\test_ThorApower\app.py[line:151] - ERROR: run:[Errno 2] No such file or directory: 'D:\\testCode\\test_ThorApower\\电源测试数据\\电源测试20220907-14-46-25.csv'
+2022-09-07 15:02:26,941 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:02:26,941 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:02:26,942 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-07 15:02:26,942 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-07 15:02:27,158 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:02:27,158 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:02:27,674 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:02:27,674 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:02:28,687 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-07 15:02:28,687 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-07 15:02:28,695 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:
+
+2022-09-07 15:02:28,695 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:
+
+2022-09-07 15:02:28,698 - d:\testCode\test_ThorApower\app.py[line:151] - ERROR: run:list index out of range
+2022-09-07 15:02:28,698 - d:\testCode\test_ThorApower\app.py[line:151] - ERROR: run:list index out of range
+2022-09-07 15:07:18,960 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:07:18,960 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:07:18,961 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-07 15:07:18,961 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-07 15:07:19,177 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:07:19,177 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:07:19,689 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:07:19,689 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:07:20,703 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-07 15:07:20,703 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-07 15:07:20,705 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:
+
+2022-09-07 15:07:20,705 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:
+
+2022-09-07 15:07:20,707 - d:\testCode\test_ThorApower\app.py[line:151] - ERROR: run:list index out of range
+2022-09-07 15:07:20,707 - d:\testCode\test_ThorApower\app.py[line:151] - ERROR: run:list index out of range
+2022-09-07 15:08:31,070 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:08:31,070 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:08:31,072 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-07 15:08:31,072 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-07 15:08:31,286 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:08:31,286 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:08:31,800 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:08:31,800 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:08:32,812 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-07 15:08:32,812 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-07 15:08:32,814 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:
+
+2022-09-07 15:08:32,814 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:
+
+2022-09-07 15:08:32,816 - d:\testCode\test_ThorApower\app.py[line:151] - ERROR: run:list index out of range
+2022-09-07 15:08:32,816 - d:\testCode\test_ThorApower\app.py[line:151] - ERROR: run:list index out of range
+2022-09-07 15:08:57,088 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:08:57,088 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:08:57,089 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-07 15:08:57,089 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-07 15:08:57,292 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:08:57,292 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:08:57,804 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:08:57,804 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:08:58,818 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-07 15:08:58,818 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-07 15:08:58,821 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:
+
+2022-09-07 15:08:58,821 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:
+
+2022-09-07 15:08:58,822 - d:\testCode\test_ThorApower\app.py[line:151] - ERROR: run:list index out of range
+2022-09-07 15:08:58,822 - d:\testCode\test_ThorApower\app.py[line:151] - ERROR: run:list index out of range
+2022-09-07 15:09:37,428 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:09:37,428 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:09:37,430 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-07 15:09:37,430 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-07 15:09:37,646 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:09:37,646 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:09:38,159 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:09:38,159 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:09:39,174 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-07 15:09:39,174 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-07 15:09:39,178 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:
+
+2022-09-07 15:09:39,178 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:
+
+2022-09-07 15:09:39,179 - d:\testCode\test_ThorApower\app.py[line:155] - ERROR: run:list index out of range
+2022-09-07 15:09:39,179 - d:\testCode\test_ThorApower\app.py[line:155] - ERROR: run:list index out of range
+2022-09-07 15:10:08,153 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:10:08,153 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:10:08,155 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-07 15:10:08,155 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-07 15:10:08,371 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:10:08,371 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:10:08,885 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:10:08,885 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:10:09,897 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-07 15:10:09,897 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-07 15:10:09,898 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:
+
+2022-09-07 15:10:09,898 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:
+
+2022-09-07 15:10:09,899 - d:\testCode\test_ThorApower\app.py[line:155] - ERROR: run:list index out of range
+2022-09-07 15:10:09,899 - d:\testCode\test_ThorApower\app.py[line:155] - ERROR: run:list index out of range
+2022-09-07 15:11:39,532 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:11:39,532 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:11:39,533 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-07 15:11:39,533 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-07 15:11:39,746 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:11:39,746 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:11:40,258 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:11:40,258 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:11:41,259 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-07 15:11:41,259 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-07 15:11:41,262 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:
+
+2022-09-07 15:11:41,262 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:
+
+2022-09-07 15:11:41,264 - d:\testCode\test_ThorApower\app.py[line:156] - ERROR: run:list index out of range
+2022-09-07 15:11:41,264 - d:\testCode\test_ThorApower\app.py[line:156] - ERROR: run:list index out of range
+2022-09-07 15:11:55,963 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:11:55,963 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:11:55,964 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-07 15:11:55,964 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-07 15:11:56,178 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:11:56,178 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:11:56,693 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:11:56,693 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:11:57,704 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-07 15:11:57,704 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-07 15:11:57,706 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:
+
+2022-09-07 15:11:57,706 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:
+
+2022-09-07 15:11:57,707 - d:\testCode\test_ThorApower\app.py[line:156] - ERROR: run:list index out of range
+2022-09-07 15:11:57,707 - d:\testCode\test_ThorApower\app.py[line:156] - ERROR: run:list index out of range
+2022-09-07 15:13:24,528 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:13:24,528 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:13:24,529 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-07 15:13:24,529 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-07 15:13:24,745 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:13:24,745 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:13:25,257 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:13:25,257 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-07 15:13:26,269 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-07 15:13:26,269 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-07 15:13:26,271 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:
+
+2022-09-07 15:13:26,271 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:
+
+2022-09-07 15:13:26,273 - d:\testCode\test_ThorApower\app.py[line:156] - ERROR: run:list index out of range
+2022-09-07 15:13:26,273 - d:\testCode\test_ThorApower\app.py[line:156] - ERROR: run:list index out of range
+2022-09-07 15:14:23,819 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:14:23,819 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:14:23,821 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 15:14:23,821 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 15:14:24,036 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 15:14:24,036 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 15:14:24,551 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 15:14:24,551 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 15:14:25,566 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:25,566 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:25,573 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:1.49854734251502
+
+2022-09-07 15:14:25,573 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:1.49854734251502
+
+2022-09-07 15:14:25,577 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,2
+
+2022-09-07 15:14:25,577 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,2
+
+2022-09-07 15:14:26,581 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:26,581 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:26,583 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.00205227426715
+
+2022-09-07 15:14:26,583 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.00205227426715
+
+2022-09-07 15:14:26,592 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,3
+
+2022-09-07 15:14:26,592 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,3
+
+2022-09-07 15:14:27,598 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:27,598 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:27,604 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.00243075310244
+
+2022-09-07 15:14:27,604 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.00243075310244
+
+2022-09-07 15:14:27,618 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,4
+
+2022-09-07 15:14:27,618 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,4
+
+2022-09-07 15:14:28,623 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:28,623 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:28,625 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.00314544410105
+
+2022-09-07 15:14:28,625 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.00314544410105
+
+2022-09-07 15:14:28,632 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,5
+
+2022-09-07 15:14:28,632 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,5
+
+2022-09-07 15:14:29,634 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:29,634 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:29,637 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.00416752907755
+
+2022-09-07 15:14:29,637 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.00416752907755
+
+2022-09-07 15:14:29,654 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,OFF
+
+2022-09-07 15:14:29,654 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,OFF
+
+2022-09-07 15:14:29,888 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 15:14:29,888 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 15:14:41,257 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:14:41,257 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 15:14:41,260 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 15:14:41,260 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 15:14:41,475 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 15:14:41,475 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 15:14:41,989 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 15:14:41,989 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 15:14:43,000 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:43,000 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:43,003 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.00417713513936
+
+2022-09-07 15:14:43,003 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.00417713513936
+
+2022-09-07 15:14:43,007 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,2
+
+2022-09-07 15:14:43,007 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,2
+
+2022-09-07 15:14:44,009 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:44,009 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:44,012 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.00162640552694
+
+2022-09-07 15:14:44,012 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.00162640552694
+
+2022-09-07 15:14:44,021 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,3
+
+2022-09-07 15:14:44,021 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,3
+
+2022-09-07 15:14:45,024 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:45,024 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:45,027 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.00217779347479
+
+2022-09-07 15:14:45,027 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.00217779347479
+
+2022-09-07 15:14:45,034 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,4
+
+2022-09-07 15:14:45,034 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,4
+
+2022-09-07 15:14:46,038 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:46,038 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:46,041 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.00309100975079
+
+2022-09-07 15:14:46,041 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.00309100975079
+
+2022-09-07 15:14:46,051 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,5
+
+2022-09-07 15:14:46,051 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,5
+
+2022-09-07 15:14:47,054 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:47,054 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:47,060 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.00417713513936
+
+2022-09-07 15:14:47,060 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.00417713513936
+
+2022-09-07 15:14:47,068 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,6
+
+2022-09-07 15:14:47,068 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,6
+
+2022-09-07 15:14:48,070 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:48,070 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:48,072 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:6.00486941199374
+
+2022-09-07 15:14:48,072 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:6.00486941199374
+
+2022-09-07 15:14:48,078 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,7
+
+2022-09-07 15:14:48,078 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,7
+
+2022-09-07 15:14:49,081 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:49,081 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:49,083 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:7.00562252723959
+
+2022-09-07 15:14:49,083 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:7.00562252723959
+
+2022-09-07 15:14:49,093 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,8
+
+2022-09-07 15:14:49,093 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,8
+
+2022-09-07 15:14:50,096 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:50,096 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:50,099 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:8.00660618796886
+
+2022-09-07 15:14:50,099 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:8.00660618796886
+
+2022-09-07 15:14:50,109 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,9
+
+2022-09-07 15:14:50,109 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,9
+
+2022-09-07 15:14:51,112 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:51,112 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:51,115 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:9.0065299798785
+
+2022-09-07 15:14:51,115 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:9.0065299798785
+
+2022-09-07 15:14:51,127 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,10
+
+2022-09-07 15:14:51,127 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,10
+
+2022-09-07 15:14:52,135 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:52,135 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 15:14:52,139 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:10.0076097012259
+
+2022-09-07 15:14:52,139 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:10.0076097012259
+
+2022-09-07 15:14:52,146 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,OFF
+
+2022-09-07 15:14:52,146 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,OFF
+
+2022-09-07 15:14:52,351 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 15:14:52,351 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:18:50,684 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 16:18:50,684 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 16:18:50,686 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 16:18:50,686 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 16:18:50,902 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:18:50,902 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:18:51,419 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:18:51,419 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:18:52,435 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:18:52,435 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:18:52,438 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:10.0089065195701
+
+2022-09-07 16:18:52,438 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:10.0089065195701
+
+2022-09-07 16:18:52,442 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,2
+
+2022-09-07 16:18:52,442 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,2
+
+2022-09-07 16:18:53,445 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:18:53,445 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:18:53,448 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.00252297129581
+
+2022-09-07 16:18:53,448 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.00252297129581
+
+2022-09-07 16:18:53,455 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,3
+
+2022-09-07 16:18:53,455 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,3
+
+2022-09-07 16:18:54,461 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:18:54,461 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:18:54,466 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.00318642996477
+
+2022-09-07 16:18:54,466 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.00318642996477
+
+2022-09-07 16:18:54,474 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,4
+
+2022-09-07 16:18:54,474 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,4
+
+2022-09-07 16:18:55,477 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:18:55,477 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:18:55,480 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.00346884818196
+
+2022-09-07 16:18:55,480 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.00346884818196
+
+2022-09-07 16:18:55,490 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,5
+
+2022-09-07 16:18:55,490 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,5
+
+2022-09-07 16:18:56,492 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:18:56,492 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:18:56,496 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.00440447860218
+
+2022-09-07 16:18:56,496 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.00440447860218
+
+2022-09-07 16:18:56,504 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,OFF
+
+2022-09-07 16:18:56,504 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD1,OFF
+
+2022-09-07 16:18:56,742 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:18:56,742 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:21:03,707 - d:\testCode\test_ThorApower\pg_cmd.py[line:32] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 16:23:19,719 - d:\testCode\test_ThorApower\pg_cmd.py[line:32] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 16:23:27,741 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 16:23:31,129 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:23:35,252 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:24:00,497 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:24:00,498 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:5.00312046834034
+
+2022-09-07 16:25:07,117 - d:\testCode\test_ThorApower\pg_cmd.py[line:32] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 16:25:24,426 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 16:25:35,745 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:26:01,391 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:26:09,381 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:26:12,214 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:5.00200296314987
+
+2022-09-07 16:28:14,025 - d:\testCode\test_ThorApower\pg_cmd.py[line:32] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 16:28:18,240 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 16:28:20,952 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:28:25,829 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:28:25,831 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:5.00060047812572
+
+2022-09-07 16:28:30,393 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,2
+
+2022-09-07 16:28:33,418 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:28:33,420 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:1.99855886978919
+
+2022-09-07 16:28:37,024 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,3
+
+2022-09-07 16:28:39,238 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:28:39,239 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:2.9987580354707
+
+2022-09-07 16:28:40,840 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,4
+
+2022-09-07 16:28:42,977 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:28:42,978 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:3.99972568609695
+
+2022-09-07 16:29:07,314 - d:\testCode\test_ThorApower\pg_cmd.py[line:32] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 16:29:07,314 - d:\testCode\test_ThorApower\pg_cmd.py[line:32] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 16:29:07,316 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 16:29:07,316 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 16:29:07,532 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:29:07,532 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:29:09,062 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:29:09,062 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:29:09,064 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:3.99963923154067
+
+2022-09-07 16:29:09,064 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:3.99963923154067
+
+2022-09-07 16:29:09,069 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,2
+
+2022-09-07 16:29:09,069 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,2
+
+2022-09-07 16:29:10,073 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:29:10,073 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:29:10,076 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:1.99859729403643
+
+2022-09-07 16:29:10,076 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:1.99859729403643
+
+2022-09-07 16:29:10,085 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,3
+
+2022-09-07 16:29:10,085 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,3
+
+2022-09-07 16:29:11,089 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:29:11,089 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:29:11,091 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:2.99920631835513
+
+2022-09-07 16:29:11,091 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:2.99920631835513
+
+2022-09-07 16:29:11,099 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,4
+
+2022-09-07 16:29:11,099 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,4
+
+2022-09-07 16:29:12,103 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:29:12,103 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:29:12,106 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:3.99961041335524
+
+2022-09-07 16:29:12,106 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:3.99961041335524
+
+2022-09-07 16:29:12,114 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,5
+
+2022-09-07 16:29:12,114 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,5
+
+2022-09-07 16:29:13,118 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:29:13,118 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:29:13,121 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:5.00056525589908
+
+2022-09-07 16:29:13,121 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:5.00056525589908
+
+2022-09-07 16:29:13,130 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:OUTP VDD1,OFF
+
+2022-09-07 16:29:13,130 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:OUTP VDD1,OFF
+
+2022-09-07 16:29:13,354 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:29:13,354 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:37:54,942 - d:\testCode\test_ThorApower\pg_cmd.py[line:32] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 16:37:56,427 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 16:37:57,721 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:38:00,245 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:38:00,247 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:5.00451014528208
+
+2022-09-07 16:38:02,814 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,2
+
+2022-09-07 16:38:04,940 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:38:04,942 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:2.0012741832606
+
+2022-09-07 16:38:08,926 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,3
+
+2022-09-07 16:38:15,527 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:38:17,819 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:3.00160463178684
+
+2022-09-07 16:48:42,642 - d:\testCode\test_ThorApower\pg_cmd.py[line:32] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 16:48:42,642 - d:\testCode\test_ThorApower\pg_cmd.py[line:32] - INFO: sock.connect:10.10.10.101,5555
+2022-09-07 16:48:42,644 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 16:48:42,644 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:OUTP VDD1,ON
+
+2022-09-07 16:48:42,859 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:48:42,859 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:48:44,384 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:48:44,384 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:48:44,388 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:2.99773979291892
+
+2022-09-07 16:48:44,388 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:2.99773979291892
+
+2022-09-07 16:48:44,392 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,2
+
+2022-09-07 16:48:44,392 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,2
+
+2022-09-07 16:48:45,396 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:48:45,396 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD1
+
+2022-09-07 16:48:45,399 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:1.99751180905198
+
+2022-09-07 16:48:45,399 - d:\testCode\test_ThorApower\pg_cmd.py[line:93] - INFO: query:1.99751180905198
+
+2022-09-07 16:48:45,408 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:OUTP VDD1,OFF
+
+2022-09-07 16:48:45,408 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:OUTP VDD1,OFF
+
+2022-09-07 16:48:45,670 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,1
+
+2022-09-07 16:48:45,670 - d:\testCode\test_ThorApower\pg_cmd.py[line:44] - INFO: send:POWER:VOLT VDD1,1
+

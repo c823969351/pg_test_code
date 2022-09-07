@@ -1,0 +1,710 @@
+2022-09-06 09:58:31,775 - d:\testCode\test_ThorApower\app.py[line:83] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 09:58:31,775 - d:\testCode\test_ThorApower\app.py[line:83] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:13:30,140 - d:\testCode\test_ThorApower\app.py[line:83] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:13:30,140 - d:\testCode\test_ThorApower\app.py[line:83] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:13:30,154 - d:\testCode\test_ThorApower\app.py[line:86] - ERROR: file:[WinError 2] 系统找不到指定的文件。: 'D:\\testCode\\test_ThorApower\\电源测试.csv'
+2022-09-06 10:13:30,154 - d:\testCode\test_ThorApower\app.py[line:86] - ERROR: file:[WinError 2] 系统找不到指定的文件。: 'D:\\testCode\\test_ThorApower\\电源测试.csv'
+2022-09-06 10:14:22,617 - d:\testCode\test_ThorApower\app.py[line:83] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:14:22,617 - d:\testCode\test_ThorApower\app.py[line:83] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:14:22,619 - d:\testCode\test_ThorApower\app.py[line:87] - ERROR: file:open() missing required argument 'flags' (pos 2)
+2022-09-06 10:14:22,619 - d:\testCode\test_ThorApower\app.py[line:87] - ERROR: file:open() missing required argument 'flags' (pos 2)
+2022-09-06 10:19:24,872 - d:\testCode\test_ThorApower\app.py[line:83] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:19:24,872 - d:\testCode\test_ThorApower\app.py[line:83] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:19:33,873 - d:\testCode\test_ThorApower\app.py[line:83] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:19:33,873 - d:\testCode\test_ThorApower\app.py[line:83] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:19:45,853 - d:\testCode\test_ThorApower\app.py[line:83] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:19:45,853 - d:\testCode\test_ThorApower\app.py[line:83] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:19:50,441 - d:\testCode\test_ThorApower\app.py[line:83] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:19:50,441 - d:\testCode\test_ThorApower\app.py[line:83] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:19:50,443 - d:\testCode\test_ThorApower\app.py[line:87] - ERROR: file:[Errno 13] Permission denied: 'D:\\testCode\\test_ThorApower\\电源测试.csv'
+2022-09-06 10:19:50,443 - d:\testCode\test_ThorApower\app.py[line:87] - ERROR: file:[Errno 13] Permission denied: 'D:\\testCode\\test_ThorApower\\电源测试.csv'
+2022-09-06 10:24:34,112 - d:\testCode\test_ThorApower\app.py[line:85] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:24:34,112 - d:\testCode\test_ThorApower\app.py[line:85] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:24:50,601 - d:\testCode\test_ThorApower\app.py[line:85] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:24:50,601 - d:\testCode\test_ThorApower\app.py[line:85] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:24:52,250 - d:\testCode\test_ThorApower\app.py[line:85] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:24:52,250 - d:\testCode\test_ThorApower\app.py[line:85] - INFO: pathD:\testCode\test_ThorApower
+2022-09-06 10:48:27,665 - d:\testCode\test_ThorApower\app.py[line:85] - ERROR: file:name 'file' is not defined
+2022-09-06 10:48:27,665 - d:\testCode\test_ThorApower\app.py[line:85] - ERROR: file:name 'file' is not defined
+2022-09-06 10:48:49,834 - d:\testCode\test_ThorApower\app.py[line:139] - ERROR: run:str, bytes or bytearray expected, not NoneType
+2022-09-06 10:48:49,834 - d:\testCode\test_ThorApower\app.py[line:139] - ERROR: run:str, bytes or bytearray expected, not NoneType
+2022-09-06 10:48:54,730 - d:\testCode\test_ThorApower\app.py[line:85] - ERROR: file:name 'file' is not defined
+2022-09-06 10:48:54,730 - d:\testCode\test_ThorApower\app.py[line:85] - ERROR: file:name 'file' is not defined
+2022-09-06 13:19:44,398 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 13:19:44,398 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 13:19:44,400 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 13:19:44,400 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 13:19:44,613 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:19:44,613 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:19:45,128 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:19:45,128 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:19:46,139 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:19:46,139 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:19:46,142 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.099
+
+2022-09-06 13:19:46,142 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.099
+
+2022-09-06 13:19:46,148 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,2
+
+2022-09-06 13:19:46,148 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,2
+
+2022-09-06 13:19:47,152 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:19:47,152 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:19:47,155 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.008
+
+2022-09-06 13:19:47,155 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.008
+
+2022-09-06 13:19:47,164 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,3
+
+2022-09-06 13:19:47,164 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,3
+
+2022-09-06 13:19:48,168 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:19:48,168 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:19:48,171 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.005
+
+2022-09-06 13:19:48,171 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.005
+
+2022-09-06 13:19:48,181 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,4
+
+2022-09-06 13:19:48,181 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,4
+
+2022-09-06 13:19:49,184 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:19:49,184 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:19:49,186 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.004
+
+2022-09-06 13:19:49,186 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.004
+
+2022-09-06 13:19:49,197 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,5
+
+2022-09-06 13:19:49,197 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,5
+
+2022-09-06 13:19:50,201 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:19:50,201 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:19:50,204 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.004
+
+2022-09-06 13:19:50,204 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.004
+
+2022-09-06 13:19:50,214 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,OFF
+
+2022-09-06 13:19:50,214 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,OFF
+
+2022-09-06 13:19:50,460 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:19:50,460 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:19:52,173 - d:\testCode\test_ThorApower\app.py[line:85] - ERROR: file:name 'file' is not defined
+2022-09-06 13:19:52,173 - d:\testCode\test_ThorApower\app.py[line:85] - ERROR: file:name 'file' is not defined
+2022-09-06 13:21:59,932 - d:\testCode\test_ThorApower\app.py[line:84] - ERROR: file:startfile: filepath should be string, bytes or os.PathLike, not function
+2022-09-06 13:21:59,932 - d:\testCode\test_ThorApower\app.py[line:84] - ERROR: file:startfile: filepath should be string, bytes or os.PathLike, not function
+2022-09-06 13:22:41,124 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 13:22:41,124 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 13:22:41,126 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 13:22:41,126 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 13:22:41,339 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:22:41,339 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:22:41,854 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:22:41,854 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:22:42,867 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:22:42,867 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:22:42,870 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.103
+
+2022-09-06 13:22:42,870 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.103
+
+2022-09-06 13:22:42,875 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,2
+
+2022-09-06 13:22:42,875 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,2
+
+2022-09-06 13:22:43,879 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:22:43,879 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:22:43,882 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.011
+
+2022-09-06 13:22:43,882 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.011
+
+2022-09-06 13:22:43,891 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,3
+
+2022-09-06 13:22:43,891 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,3
+
+2022-09-06 13:22:44,895 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:22:44,895 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:22:44,898 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.009
+
+2022-09-06 13:22:44,898 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.009
+
+2022-09-06 13:22:44,907 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,4
+
+2022-09-06 13:22:44,907 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,4
+
+2022-09-06 13:22:45,910 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:22:45,910 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:22:45,913 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.007
+
+2022-09-06 13:22:45,913 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.007
+
+2022-09-06 13:22:45,922 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,5
+
+2022-09-06 13:22:45,922 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,5
+
+2022-09-06 13:22:46,926 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:22:46,926 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:22:46,929 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.007
+
+2022-09-06 13:22:46,929 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.007
+
+2022-09-06 13:22:46,938 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,OFF
+
+2022-09-06 13:22:46,938 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,OFF
+
+2022-09-06 13:22:47,143 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:22:47,143 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:22:48,953 - d:\testCode\test_ThorApower\app.py[line:84] - ERROR: file:startfile: filepath should be string, bytes or os.PathLike, not function
+2022-09-06 13:22:48,953 - d:\testCode\test_ThorApower\app.py[line:84] - ERROR: file:startfile: filepath should be string, bytes or os.PathLike, not function
+2022-09-06 13:24:18,320 - d:\testCode\test_ThorApower\app.py[line:88] - ERROR: file:[WinError 2] 系统找不到指定的文件。: 'D:\\testCode\\test_ThorApower\\电源测试20220906-13-24-06.csv'
+2022-09-06 13:24:18,320 - d:\testCode\test_ThorApower\app.py[line:88] - ERROR: file:[WinError 2] 系统找不到指定的文件。: 'D:\\testCode\\test_ThorApower\\电源测试20220906-13-24-06.csv'
+2022-09-06 13:24:22,246 - d:\testCode\test_ThorApower\app.py[line:88] - ERROR: file:[WinError 2] 系统找不到指定的文件。: 'D:\\testCode\\test_ThorApower\\电源测试20220906-13-24-06.csv'
+2022-09-06 13:24:22,246 - d:\testCode\test_ThorApower\app.py[line:88] - ERROR: file:[WinError 2] 系统找不到指定的文件。: 'D:\\testCode\\test_ThorApower\\电源测试20220906-13-24-06.csv'
+2022-09-06 13:24:26,939 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 13:24:26,939 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 13:24:26,941 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 13:24:26,941 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 13:24:27,156 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:24:27,156 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:24:27,671 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:24:27,671 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:24:28,679 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:24:28,679 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:24:28,682 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.104
+
+2022-09-06 13:24:28,682 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.104
+
+2022-09-06 13:24:28,687 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,2
+
+2022-09-06 13:24:28,687 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,2
+
+2022-09-06 13:24:29,691 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:24:29,691 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:24:29,694 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.013
+
+2022-09-06 13:24:29,694 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.013
+
+2022-09-06 13:24:29,705 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,3
+
+2022-09-06 13:24:29,705 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,3
+
+2022-09-06 13:24:30,708 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:24:30,708 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:24:30,711 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.009
+
+2022-09-06 13:24:30,711 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.009
+
+2022-09-06 13:24:30,720 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,4
+
+2022-09-06 13:24:30,720 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,4
+
+2022-09-06 13:24:31,725 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:24:31,725 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:24:31,728 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.008
+
+2022-09-06 13:24:31,728 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.008
+
+2022-09-06 13:24:31,736 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,5
+
+2022-09-06 13:24:31,736 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,5
+
+2022-09-06 13:24:32,740 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:24:32,740 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:24:32,742 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.008
+
+2022-09-06 13:24:32,742 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.008
+
+2022-09-06 13:24:32,751 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,OFF
+
+2022-09-06 13:24:32,751 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,OFF
+
+2022-09-06 13:24:32,956 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:24:32,956 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:24:44,849 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 13:24:44,849 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 13:24:44,851 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 13:24:44,851 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 13:24:45,066 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:24:45,066 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:24:45,579 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:24:45,579 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 13:24:46,592 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:24:46,592 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 13:24:46,595 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.105
+
+2022-09-06 13:24:46,595 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.105
+
+2022-09-06 13:24:46,599 - d:\testCode\test_ThorApower\app.py[line:138] - ERROR: run:[Errno 13] Permission denied: 'D:\\testCode\\test_ThorApower\\电源测试20220906-13-24-06.csv'
+2022-09-06 13:24:46,599 - d:\testCode\test_ThorApower\app.py[line:138] - ERROR: run:[Errno 13] Permission denied: 'D:\\testCode\\test_ThorApower\\电源测试20220906-13-24-06.csv'
+2022-09-06 16:35:04,188 - d:\testCode\test_ThorApower\app.py[line:88] - ERROR: file:[WinError 2] 系统找不到指定的文件。: 'D:\\testCode\\test_ThorApower\\电源测试20220906-16-34-57.csv'
+2022-09-06 16:35:04,188 - d:\testCode\test_ThorApower\app.py[line:88] - ERROR: file:[WinError 2] 系统找不到指定的文件。: 'D:\\testCode\\test_ThorApower\\电源测试20220906-16-34-57.csv'
+2022-09-06 16:35:15,711 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 16:35:15,711 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 16:35:15,711 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 16:35:15,711 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 16:35:15,918 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:35:15,918 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:35:16,432 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:35:16,432 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:35:17,444 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:35:17,444 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:35:17,447 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.1
+
+2022-09-06 16:35:17,447 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.1
+
+2022-09-06 16:37:40,236 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 16:37:40,236 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 16:37:40,237 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 16:37:40,237 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 16:37:40,443 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:37:40,443 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:37:40,959 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:37:40,959 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:37:41,974 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:37:41,974 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:37:41,978 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.104
+
+2022-09-06 16:37:41,978 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.104
+
+2022-09-06 16:49:16,593 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 16:49:16,593 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 16:49:16,606 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 16:49:16,606 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 16:49:16,811 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:49:16,811 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:49:17,324 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:49:17,324 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:49:18,339 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:49:18,339 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:49:18,342 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.105
+
+2022-09-06 16:49:18,342 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.105
+
+2022-09-06 16:49:18,348 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,2
+
+2022-09-06 16:49:18,348 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,2
+
+2022-09-06 16:49:19,351 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:49:19,351 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:49:19,353 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.014
+
+2022-09-06 16:49:19,353 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.014
+
+2022-09-06 16:49:19,363 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,3
+
+2022-09-06 16:49:19,363 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,3
+
+2022-09-06 16:49:20,366 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:49:20,366 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:49:20,369 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.01
+
+2022-09-06 16:49:20,369 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.01
+
+2022-09-06 16:49:20,377 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,4
+
+2022-09-06 16:49:20,377 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,4
+
+2022-09-06 16:49:21,380 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:49:21,380 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:49:21,384 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.008
+
+2022-09-06 16:49:21,384 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.008
+
+2022-09-06 16:49:21,394 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,5
+
+2022-09-06 16:49:21,394 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,5
+
+2022-09-06 16:49:22,397 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:49:22,397 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:49:22,400 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.008
+
+2022-09-06 16:49:22,400 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.008
+
+2022-09-06 16:49:22,408 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,OFF
+
+2022-09-06 16:49:22,408 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,OFF
+
+2022-09-06 16:49:22,667 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:49:22,667 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:51:22,153 - d:\testCode\test_ThorApower\app.py[line:95] - ERROR: file:[Errno 2] No such file or directory: 'D:\\testCode\\test_ThorApower\\电源测试20220906-16-51-20.csv'
+2022-09-06 16:51:22,153 - d:\testCode\test_ThorApower\app.py[line:95] - ERROR: file:[Errno 2] No such file or directory: 'D:\\testCode\\test_ThorApower\\电源测试20220906-16-51-20.csv'
+2022-09-06 16:51:32,085 - d:\testCode\test_ThorApower\app.py[line:95] - ERROR: file:[Errno 2] No such file or directory: 'D:\\testCode\\test_ThorApower\\电源测试20220906-16-51-20.csv'
+2022-09-06 16:51:32,085 - d:\testCode\test_ThorApower\app.py[line:95] - ERROR: file:[Errno 2] No such file or directory: 'D:\\testCode\\test_ThorApower\\电源测试20220906-16-51-20.csv'
+2022-09-06 16:51:35,472 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 16:51:35,472 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 16:51:35,474 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 16:51:35,474 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 16:51:35,687 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:51:35,687 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:51:36,203 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:51:36,203 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:51:37,217 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:51:37,217 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:51:37,220 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.106
+
+2022-09-06 16:51:37,220 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.106
+
+2022-09-06 16:51:37,224 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,2
+
+2022-09-06 16:51:37,224 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,2
+
+2022-09-06 16:51:38,228 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:51:38,228 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:51:38,231 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.014
+
+2022-09-06 16:51:38,231 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.014
+
+2022-09-06 16:51:38,239 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,3
+
+2022-09-06 16:51:38,239 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,3
+
+2022-09-06 16:51:39,244 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:51:39,244 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:51:39,247 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.011
+
+2022-09-06 16:51:39,247 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.011
+
+2022-09-06 16:51:39,255 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,4
+
+2022-09-06 16:51:39,255 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,4
+
+2022-09-06 16:51:40,258 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:51:40,258 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:51:40,260 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.011
+
+2022-09-06 16:51:40,260 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.011
+
+2022-09-06 16:51:40,267 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,5
+
+2022-09-06 16:51:40,267 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,5
+
+2022-09-06 16:51:41,272 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:51:41,272 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:51:41,275 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.01
+
+2022-09-06 16:51:41,275 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.01
+
+2022-09-06 16:51:41,289 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,OFF
+
+2022-09-06 16:51:41,289 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,OFF
+
+2022-09-06 16:51:41,496 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:51:41,496 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:53:30,610 - d:\testCode\test_ThorApower\app.py[line:95] - ERROR: file:[Errno 2] No such file or directory: 'D:\\testCode\\test_ThorApower\\电源测试20220906-16-53-23.csv'
+2022-09-06 16:53:30,610 - d:\testCode\test_ThorApower\app.py[line:95] - ERROR: file:[Errno 2] No such file or directory: 'D:\\testCode\\test_ThorApower\\电源测试20220906-16-53-23.csv'
+2022-09-06 16:53:33,865 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 16:53:33,865 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 16:53:33,867 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 16:53:33,867 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 16:53:34,080 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:53:34,080 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:53:34,590 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:53:34,590 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:53:35,607 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:53:35,607 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:53:35,610 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.108
+
+2022-09-06 16:53:35,610 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.108
+
+2022-09-06 16:53:35,614 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,2
+
+2022-09-06 16:53:35,614 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,2
+
+2022-09-06 16:53:36,618 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:53:36,618 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:53:36,621 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.016
+
+2022-09-06 16:53:36,621 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.016
+
+2022-09-06 16:53:36,630 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,OFF
+
+2022-09-06 16:53:36,630 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,OFF
+
+2022-09-06 16:53:36,837 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:53:36,837 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:53:37,913 - d:\testCode\test_ThorApower\app.py[line:95] - ERROR: file:2
+2022-09-06 16:53:37,913 - d:\testCode\test_ThorApower\app.py[line:95] - ERROR: file:2
+2022-09-06 16:53:41,382 - d:\testCode\test_ThorApower\app.py[line:95] - ERROR: file:2
+2022-09-06 16:53:41,382 - d:\testCode\test_ThorApower\app.py[line:95] - ERROR: file:2
+2022-09-06 16:57:23,335 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 16:57:23,335 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 16:57:23,335 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 16:57:23,335 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 16:57:23,551 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:57:23,551 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:57:24,065 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:57:24,065 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:57:25,078 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:57:25,078 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:57:25,080 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.11
+
+2022-09-06 16:57:25,080 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.11
+
+2022-09-06 16:57:25,085 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,2
+
+2022-09-06 16:57:25,085 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,2
+
+2022-09-06 16:57:26,089 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:57:26,089 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:57:26,092 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.018
+
+2022-09-06 16:57:26,092 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.018
+
+2022-09-06 16:57:26,117 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,3
+
+2022-09-06 16:57:26,117 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,3
+
+2022-09-06 16:57:27,123 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:57:27,123 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:57:27,125 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.013
+
+2022-09-06 16:57:27,125 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.013
+
+2022-09-06 16:57:27,134 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,4
+
+2022-09-06 16:57:27,134 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,4
+
+2022-09-06 16:57:28,140 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:57:28,140 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:57:28,141 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.013
+
+2022-09-06 16:57:28,141 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.013
+
+2022-09-06 16:57:28,151 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,5
+
+2022-09-06 16:57:28,151 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,5
+
+2022-09-06 16:57:29,155 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:57:29,155 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 16:57:29,156 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.011
+
+2022-09-06 16:57:29,156 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.011
+
+2022-09-06 16:57:29,165 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,OFF
+
+2022-09-06 16:57:29,165 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,OFF
+
+2022-09-06 16:57:29,399 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 16:57:29,399 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 17:01:20,171 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 17:01:20,171 - d:\testCode\test_ThorApower\pg_cmd.py[line:31] - INFO: sock.connect:10.10.10.10,5555
+2022-09-06 17:01:20,172 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 17:01:20,172 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,ON
+
+2022-09-06 17:01:20,383 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 17:01:20,383 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 17:01:20,898 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 17:01:20,898 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 17:01:21,911 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 17:01:21,911 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 17:01:21,913 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.112
+
+2022-09-06 17:01:21,913 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:19.112
+
+2022-09-06 17:01:21,918 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,2
+
+2022-09-06 17:01:21,918 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,2
+
+2022-09-06 17:01:22,922 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 17:01:22,922 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 17:01:22,925 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.018
+
+2022-09-06 17:01:22,925 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:2.018
+
+2022-09-06 17:01:22,948 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,3
+
+2022-09-06 17:01:22,948 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,3
+
+2022-09-06 17:01:23,951 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 17:01:23,951 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 17:01:23,954 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.014
+
+2022-09-06 17:01:23,954 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:3.014
+
+2022-09-06 17:01:23,961 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,4
+
+2022-09-06 17:01:23,961 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,4
+
+2022-09-06 17:01:24,966 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 17:01:24,966 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 17:01:24,969 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.012
+
+2022-09-06 17:01:24,969 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:4.012
+
+2022-09-06 17:01:24,976 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,5
+
+2022-09-06 17:01:24,976 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,5
+
+2022-09-06 17:01:25,980 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 17:01:25,980 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWE:VOLT? VDD
+
+2022-09-06 17:01:25,983 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.013
+
+2022-09-06 17:01:25,983 - d:\testCode\test_ThorApower\pg_cmd.py[line:92] - INFO: query:5.013
+
+2022-09-06 17:01:25,992 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,OFF
+
+2022-09-06 17:01:25,992 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:OUTP VDD,OFF
+
+2022-09-06 17:01:26,239 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+
+2022-09-06 17:01:26,239 - d:\testCode\test_ThorApower\pg_cmd.py[line:43] - INFO: send:POWER:VOLT VDD,1
+

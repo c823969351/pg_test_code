@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/configuration-manage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flaskDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/itam" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pytestDemo" vcs="Git" />
+  </component>
+</project>

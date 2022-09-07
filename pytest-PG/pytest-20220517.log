@@ -1,0 +1,258 @@
+2022-05-17 14:37:30,349 - d:\testCode\pytest-PG\pg_cmd.py[line:32] - INFO: sock.connect:10.10.10.10,5555
+2022-05-17 14:37:30,352 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY ELVDD,ON
+
+2022-05-17 14:37:30,559 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN ELVDD,ON
+
+2022-05-17 14:37:30,762 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT ELVDD,5.5
+
+2022-05-17 14:37:32,965 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? ELVDD
+
+2022-05-17 14:37:32,968 - d:\testCode\pytest-PG\pg_cmd.py[line:93] - INFO: query:5.5
+
+2022-05-17 14:37:32,990 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY ELVDD,OFF
+
+2022-05-17 14:37:33,201 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN ELVDD,OFF
+
+2022-05-17 14:37:33,407 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT ELVDD,1.5
+
+2022-05-17 14:37:33,617 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY VDD,ON
+
+2022-05-17 14:37:33,830 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN VDD,ON
+
+2022-05-17 14:37:34,034 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT VDD,5.5
+
+2022-05-17 14:37:34,249 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD
+
+2022-05-17 14:37:34,251 - d:\testCode\pytest-PG\pg_cmd.py[line:93] - INFO: query:5.5
+
+2022-05-17 14:37:34,258 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY VDD,OFF
+
+2022-05-17 14:37:34,464 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN VDD,OFF
+
+2022-05-17 14:37:34,668 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT VDD,1.5
+
+2022-05-17 14:37:34,875 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY ELVSS,ON
+
+2022-05-17 14:37:35,087 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN ELVSS,ON
+
+2022-05-17 14:37:35,289 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT ELVSS,-5.5
+
+2022-05-17 14:37:35,491 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? ELVSS
+
+2022-05-17 14:37:35,493 - d:\testCode\pytest-PG\pg_cmd.py[line:93] - INFO: query:-5.499
+
+2022-05-17 14:37:35,500 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY ELVSS,OFF
+
+2022-05-17 14:37:35,708 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN ELVSS,OFF
+
+2022-05-17 14:37:35,911 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT ELVSS,-2
+
+2022-05-17 14:37:36,118 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY VGL,ON
+
+2022-05-17 14:37:36,331 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN VGL,ON
+
+2022-05-17 14:37:36,536 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT VGL,-5.5
+
+2022-05-17 14:37:38,765 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VGL
+
+2022-05-17 14:37:38,767 - d:\testCode\pytest-PG\pg_cmd.py[line:93] - INFO: query:-5.498
+
+2022-05-17 14:37:38,773 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY VGL,OFF
+
+2022-05-17 14:37:38,982 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN VGL,OFF
+
+2022-05-17 14:37:39,183 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT VGL,-2
+
+2022-05-17 14:37:39,391 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY VGH,ON
+
+2022-05-17 14:37:39,603 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN VGH,ON
+
+2022-05-17 14:37:39,806 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT VGH,17
+
+2022-05-17 14:37:40,010 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VGH
+
+2022-05-17 14:37:40,012 - d:\testCode\pytest-PG\pg_cmd.py[line:93] - INFO: query:16.999
+
+2022-05-17 14:37:40,020 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY VGH,OFF
+
+2022-05-17 14:37:40,230 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN VGH,OFF
+
+2022-05-17 14:37:40,432 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT VGH,1.5
+
+2022-05-17 14:37:40,655 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY TPVDD,ON
+
+2022-05-17 14:37:40,867 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN TPVDD,ON
+
+2022-05-17 14:37:41,071 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT TPVDD,17
+
+2022-05-17 14:37:41,272 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? TPVDD
+
+2022-05-17 14:37:41,273 - d:\testCode\pytest-PG\pg_cmd.py[line:93] - INFO: query:17.006
+
+2022-05-17 14:37:41,280 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY TPVDD,OFF
+
+2022-05-17 14:37:41,491 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN TPVDD,OFF
+
+2022-05-17 14:37:41,696 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT TPVDD,1.5
+
+2022-05-17 14:37:41,903 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY VDDIO,ON
+
+2022-05-17 14:37:42,118 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN VDDIO,ON
+
+2022-05-17 14:37:42,319 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT VDDIO,1.8
+
+2022-05-17 14:37:42,522 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDDIO
+
+2022-05-17 14:37:42,523 - d:\testCode\pytest-PG\pg_cmd.py[line:93] - INFO: query:1.798
+
+2022-05-17 14:37:42,530 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY VDDIO,OFF
+
+2022-05-17 14:37:42,740 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN VDDIO,OFF
+
+2022-05-17 14:37:42,943 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT VDDIO,1
+
+2022-05-17 14:37:43,152 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY TPVDDIO,ON
+
+2022-05-17 14:37:43,367 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN TPVDDIO,ON
+
+2022-05-17 14:37:43,571 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT TPVDDIO,1.8
+
+2022-05-17 14:37:43,773 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? TPVDDIO
+
+2022-05-17 14:37:43,775 - d:\testCode\pytest-PG\pg_cmd.py[line:93] - INFO: query:1.804
+
+2022-05-17 14:37:43,783 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY TPVDDIO,OFF
+
+2022-05-17 14:37:43,991 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN TPVDDIO,OFF
+
+2022-05-17 14:37:44,194 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT TPVDDIO,1
+
+2022-05-17 15:26:58,956 - d:\testCode\pytest-PG\pg_cmd.py[line:32] - INFO: sock.connect:10.10.10.10,5555
+2022-05-17 15:26:58,959 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY ELVDD,ON
+
+2022-05-17 15:26:59,161 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN ELVDD,ON
+
+2022-05-17 15:26:59,367 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT ELVDD,5.5
+
+2022-05-17 15:27:01,585 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? ELVDD
+
+2022-05-17 15:27:01,587 - d:\testCode\pytest-PG\pg_cmd.py[line:93] - INFO: query:5.507
+
+2022-05-17 15:27:01,588 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY ELVDD,OFF
+
+2022-05-17 15:27:01,789 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN ELVDD,OFF
+
+2022-05-17 15:27:01,992 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT ELVDD,1.5
+
+2022-05-17 15:27:02,199 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY VDD,ON
+
+2022-05-17 15:27:02,415 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN VDD,ON
+
+2022-05-17 15:27:02,619 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT VDD,5.5
+
+2022-05-17 15:27:02,834 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDD
+
+2022-05-17 15:27:02,836 - d:\testCode\pytest-PG\pg_cmd.py[line:93] - INFO: query:5.503
+
+2022-05-17 15:27:02,843 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY VDD,OFF
+
+2022-05-17 15:27:03,071 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN VDD,OFF
+
+2022-05-17 15:27:03,277 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT VDD,1.5
+
+2022-05-17 15:27:03,496 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY ELVSS,ON
+
+2022-05-17 15:27:03,710 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN ELVSS,ON
+
+2022-05-17 15:27:03,913 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT ELVSS,-5.5
+
+2022-05-17 15:27:04,114 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? ELVSS
+
+2022-05-17 15:27:04,115 - d:\testCode\pytest-PG\pg_cmd.py[line:93] - INFO: query:-5.499
+
+2022-05-17 15:27:04,123 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY ELVSS,OFF
+
+2022-05-17 15:27:04,332 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN ELVSS,OFF
+
+2022-05-17 15:27:04,535 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT ELVSS,-2
+
+2022-05-17 15:27:04,744 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY VGL,ON
+
+2022-05-17 15:27:04,958 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN VGL,ON
+
+2022-05-17 15:27:05,162 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT VGL,-5.5
+
+2022-05-17 15:27:07,390 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VGL
+
+2022-05-17 15:27:07,393 - d:\testCode\pytest-PG\pg_cmd.py[line:93] - INFO: query:-5.494
+
+2022-05-17 15:27:07,400 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY VGL,OFF
+
+2022-05-17 15:27:07,609 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN VGL,OFF
+
+2022-05-17 15:27:07,813 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT VGL,-2
+
+2022-05-17 15:27:08,018 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY VGH,ON
+
+2022-05-17 15:27:08,234 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN VGH,ON
+
+2022-05-17 15:27:08,439 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT VGH,17
+
+2022-05-17 15:27:08,644 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VGH
+
+2022-05-17 15:27:08,646 - d:\testCode\pytest-PG\pg_cmd.py[line:93] - INFO: query:16.999
+
+2022-05-17 15:27:08,651 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY VGH,OFF
+
+2022-05-17 15:27:08,862 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN VGH,OFF
+
+2022-05-17 15:27:09,065 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT VGH,1.5
+
+2022-05-17 15:27:09,288 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY TPVDD,ON
+
+2022-05-17 15:27:09,503 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN TPVDD,ON
+
+2022-05-17 15:27:09,706 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT TPVDD,17
+
+2022-05-17 15:27:09,908 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? TPVDD
+
+2022-05-17 15:27:09,909 - d:\testCode\pytest-PG\pg_cmd.py[line:93] - INFO: query:16.998
+
+2022-05-17 15:27:09,918 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY TPVDD,OFF
+
+2022-05-17 15:27:10,122 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN TPVDD,OFF
+
+2022-05-17 15:27:10,323 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT TPVDD,1.5
+
+2022-05-17 15:27:10,531 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY VDDIO,ON
+
+2022-05-17 15:27:10,744 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN VDDIO,ON
+
+2022-05-17 15:27:10,949 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT VDDIO,1.8
+
+2022-05-17 15:27:11,150 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? VDDIO
+
+2022-05-17 15:27:11,153 - d:\testCode\pytest-PG\pg_cmd.py[line:93] - INFO: query:1.803
+
+2022-05-17 15:27:11,158 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY VDDIO,OFF
+
+2022-05-17 15:27:11,364 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN VDDIO,OFF
+
+2022-05-17 15:27:11,580 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT VDDIO,1
+
+2022-05-17 15:27:11,789 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY TPVDDIO,ON
+
+2022-05-17 15:27:12,005 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN TPVDDIO,ON
+
+2022-05-17 15:27:12,220 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT TPVDDIO,1.8
+
+2022-05-17 15:27:12,426 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWE:VOLT? TPVDDIO
+
+2022-05-17 15:27:12,427 - d:\testCode\pytest-PG\pg_cmd.py[line:93] - INFO: query:1.806
+
+2022-05-17 15:27:12,433 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:RELAY TPVDDIO,OFF
+
+2022-05-17 15:27:12,649 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:POWER:DCEN TPVDDIO,OFF
+
+2022-05-17 15:27:12,851 - d:\testCode\pytest-PG\pg_cmd.py[line:44] - INFO: send:DEVICE:POWER:VOLT TPVDDIO,1
+

@@ -1,0 +1,55 @@
+{
+  "uid" : "c04b311facadbc55",
+  "name" : "test_case_01",
+  "fullName" : "test.Testcase#test_case_01",
+  "historyId" : "946c78e7b76feb01f9c79fefc8eafb3b",
+  "time" : {
+    "start" : 1656412966608,
+    "stop" : 1656412972917,
+    "duration" : 6309
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcase"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-67MJ76AG"
+  }, {
+    "name" : "thread",
+    "value" : "19588-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c04b311facadbc55.json",
+  "parameterValues" : [ ]
+}
