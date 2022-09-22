@@ -10,9 +10,9 @@ def crawle():
     html=req.text
 
     doc = pq(html)
-    a = doc('#list > dl > dd > a')
+    a = doc('#list > dl > dd > a')#\30 e543277-b570-43d9-ab81-4a8ce05c9fc5 > p
     m= len(a)
-    fr = open('凡人修仙传.txt','w')
+    fr = open('凡人修仙传.txt','w')#\39 df3a6af-cb16-48da-b4f2-b648a53af5eb > p
     index = 1
     for each in a.items():
         title=each.text()

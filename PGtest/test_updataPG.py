@@ -2,11 +2,11 @@ from Find_PG import *
 import pg_cmd
 import time
 
-ip = "10.10.10.10"
+ip = "10.10.10.101"
 remote_addr = '/tmp/'
-upgrade1_addr = r'D:\Thor_B_mrd\MRD1808_02.02.01.49.mrd'
+upgrade1_addr = r'D:\Thor_B_mrd\MRD1808_02.02.01.52.mrd'
 # upgrade1_addr = r'D:\Thor_B_mrd\mrdPatternGenerator_00.00.00.54.mrd'
-upgrade2_addr = r'D:\Thor_B_mrd\mrdPatternGenerator_00.00.00.54.mrd'
+upgrade2_addr = r'D:\Thor_B_mrd\MRD1808_02.02.01.52.mrd'
 
 
 def reboot_test(upgrade_addr):
@@ -59,7 +59,7 @@ def main(count=0):
 
 if __name__ == "__main__":
     pg = pg_cmd.ServPg(ip)
-    for i in range(1):
+    for i in range(100):
         if i % 2 == 0:
             upgrade_addr = upgrade1_addr
         else:

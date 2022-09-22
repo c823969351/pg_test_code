@@ -7,7 +7,7 @@ import pandas as pd
 
 # ip = mrgFindGateWay()
 # ip = " ".join(ip)
-ip = '10.10.10.10'
+ip = '10.10.10.101'
 pg = pg_cmd.ServPg(ip)
 pg.open()
 
@@ -33,27 +33,28 @@ if __name__ == "__main__":
             if IDN == '电源已经开启 or 自检失败，需要校准！\n':
                 raise Exception('开电失败-1')
             #pg.powerOn("ALL")
-            time.sleep(2)
+            time.sleep(1)
             #pg.powerClear()
             #Qstate() #读所有状态
-            state_nm = pg.powerState("ALL").split(',')
-            index = len(state_nm)
-            state_nm[index-1]=state_nm[index-1].split('\n')[0]
-            for state_i in range(index):
-                if state_nm[state_i] == '0':
-                    pass
-                else:
-                    raise Exception('电源保护')
+            # state_nm = pg.powerState("ALL").split(',')
+            # index = len(state_nm)
+            # state_nm[index-1]=state_nm[index-1].split('\n')[0]
+            # for state_i in range(index):
+            #     if state_nm[state_i] == '0':
+            #         pass
+            #     else:
+            #         raise Exception('电源保护')
             #############切图测试###############
-            for a in range(10):
+            for a in range(5):
                 pg.displayId(a)
-                time.sleep(2)
+                time.sleep(1)
                 qid = pg.displayQId()
                 if int(qid) == a:
                     pass
                 else:
                     raise Exception('切图失败')
             pg.dispOff()
+            time.sleep(2)
 
         #############################################################################
         #     temp1,temp2 = pg.temp()#1风扇，2中间
