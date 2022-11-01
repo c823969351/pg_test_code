@@ -7,7 +7,7 @@ import pandas as pd
 
 # ip = mrgFindGateWay()
 # ip = " ".join(ip)
-ip = '10.10.10.101'
+ip = '10.10.10.240'
 pg = pg_cmd.ServPg(ip)
 pg.open()
 
@@ -28,12 +28,12 @@ if __name__ == "__main__":
         i = i+1
         try:
             pg.dispOn()
+            time.sleep(2)
             IDN = pg.idn()
             print(IDN)
             if IDN == '电源已经开启 or 自检失败，需要校准！\n':
                 raise Exception('开电失败-1')
             #pg.powerOn("ALL")
-            time.sleep(1)
             #pg.powerClear()
             #Qstate() #读所有状态
             # state_nm = pg.powerState("ALL").split(',')
@@ -45,7 +45,7 @@ if __name__ == "__main__":
             #     else:
             #         raise Exception('电源保护')
             #############切图测试###############
-            for a in range(5):
+            for a in range(10):
                 pg.displayId(a)
                 time.sleep(1)
                 qid = pg.displayQId()

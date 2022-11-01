@@ -85,20 +85,18 @@ def test_get_ip():
 
 ######硬重启时间测试###############
 if __name__ == "__main__":
-    # tm_begin = time.time()
-    # ip = list()
-    # time.sleep(1)
-    # try:
-    #     while 1:
-    #         if ip == "10.10.10.10":
-    #             print("重启完成")
-    #             break
-    #         else:
-    #             ip = mrgFindGateWay()
-    #             ip = " ".join(ip)
-    #             print("启动中")
-    # except Exception as e:
-    #     print("err:", e)
-    # print(time.time() - tm_begin)
-    ip = pg_ip()
-    print(ip)
+    tm_begin = time.time()
+    ip = list()
+    time.sleep(1)
+    try:
+        while 1:
+            if ip == "10.10.10.240":
+                print("重启完成")
+                break
+            else:
+                ip = mrgFindGateWay()
+                ip = " ".join(ip)
+                print("启动中")
+    except Exception as e:
+        print("err:", e)
+    print(time.time() - tm_begin)

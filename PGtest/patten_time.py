@@ -5,11 +5,11 @@ import write_excel
 
 class Pattentime(object):
     def __init__(self):
-        self.pg = pg_cmd.ServPg(serv='10.10.10.10')
+        self.pg = pg_cmd.ServPg(serv='10.10.10.240')
 
 
     def Pre_load(self):
-        delay = 0.07
+        delay = 1.99
         tm = 0
         qid = 0
         for i in range(1,10):
@@ -49,7 +49,7 @@ class Pattentime(object):
         
     def logicpattern(self):
         self.pg.logicpattern_on()
-        delay = 0.07
+        delay = 0.199
         tm = 0
         qid = 0
         for i in range(3,14):
@@ -74,8 +74,8 @@ if __name__ == "__main__":
     res.pg.open()
     try:
         #res.Non_preload()
-        res.Pre_load()
-        #res.logicpattern()
+        # res.Pre_load()
+        res.logicpattern()
     except Exception as e:
         print("---异常---：", e)
         print("测试失败")

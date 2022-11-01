@@ -1,7 +1,5 @@
 # -*- coding: UTF-8 -*-
 
-from os import write
-import xlwt
 import os
 import datetime
 
